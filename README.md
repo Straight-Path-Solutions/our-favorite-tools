@@ -8,7 +8,7 @@ As you may have noticed, here at [Straight Path Solutions](https://straightpaths
 <br>
 However, we also want to draw attention to the scripts created by other folks that we use nearly every day. Whether you are just starting with SQL Server or have been working with databases for decades, it’s very likely you could benefit from one or more of these scripts.
 <br>
-We’ve made this page on our GitHub repo to share these scripts for any folks that happen upon the repo, but since you’re here...here’s what we often use!<br>
+We’ve made this page on our GitHub repo to share these scripts for any folks that happen upon the repo, so since you’re here...here’s what we often use!<br>
 <br>
 
 # Adam Machanic’s sp_WhoIsActive
