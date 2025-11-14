@@ -1,7 +1,7 @@
 # Our favorite FREE community supported SQL Server scripts (that we didn’t make)
 
 As you may have noticed, here at [Straight Path Solutions](https://straightpathsql.com/) we’ve been working on a few free scripts to help you with maintaining your SQL Server instances. These include:<br>
-  •	**sp_CheckBackup** to reveal the history and problems with your database backups<br>
+  •	[sp_CheckBackup](https://github.com/Straight-Path-Solutions/sp_CheckBackup) to reveal the history and problems with your database backups<br>
   •	[sp_CheckSecurity](https://github.com/Straight-Path-Solutions/sp_CheckSecurity) to uncover security vulnerabilities with your instance<br>
   •	[sp_CheckTempdb](https://github.com/Straight-Path-Solutions/sp_CheckTempdb) to get the configuration and any issues with your tempdb database<br>
 <br>
